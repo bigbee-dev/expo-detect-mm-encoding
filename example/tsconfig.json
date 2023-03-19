@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@bigbee.dev/expo-detect-mm-encoding": ["../src/index"],
+      "@bigbee.dev/expo-detect-mm-encoding/*": ["../src/*"]
+    }
+  }
+}
