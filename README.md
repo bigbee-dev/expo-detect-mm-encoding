@@ -22,5 +22,5 @@ Run `npx pod-install` after installing the npm package.
 ```Typescript
 import { isUnicode } from '@bigbee.dev/expo-detect-mm-encoding';
 
-const uni = await isUnicode();
+const uni = isUnicode();
 ```
