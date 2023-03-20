@@ -28,7 +28,6 @@
   "author": "Big Bee <hello@bigbee.tech> (https://github.com/bigbee-dev)",
   "license": "MIT",
   "homepage": "https://github.com/bigbee-dev/expo-detect-mm-encoding#readme",
-  "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
     "@types/react-native": "^0.70.6",
