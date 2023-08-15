@@ -51,6 +51,7 @@ afterEvaluate {
 }
 
 android {
+  namespace = "com.bigbee.detectmmencoding"
   compileSdkVersion safeExtGet("compileSdkVersion", 31)
 
   compileOptions {
