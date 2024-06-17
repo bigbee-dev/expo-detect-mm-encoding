@@ -32,7 +32,7 @@ if (useManagedAndroidSdkVersions) {
 }
 
 android {
-  namespace "expo.modules.settings"
+  namespace "com.bigbee.detectmmencoding"
   defaultConfig {
     versionCode 1
     versionName "0.1.0"
