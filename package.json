@@ -1,6 +1,6 @@
 {
   "name": "@bigbee.dev/expo-detect-mm-encoding",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "detect Myanmar text encoding",
   "main": "build/index.js",
   "types": "build/index.d.ts",
